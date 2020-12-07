@@ -9,12 +9,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.0.0-alpha.14",
+    "url-loader": "^4.1.1",
     "webpack-cli": "^4.2.0"
   },
   "dependencies": {
     "css-loader": "^5.0.1",
     "echarts": "^5.0.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
     "style-loader": "^2.0.0"
   }
 }
